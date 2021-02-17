@@ -1,0 +1,27 @@
+body{padding: 6%;
+    background-color: rgb(221, 39, 69);}
+dd{background-color: #50f53a;}
+h1{color: indigo;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(143, 180, 243);
+    background-image: url(03.jpg.jpg);}
+    header{
+        font-family: 'Times New Roman', Times, serif;
+        background-image: url(03.jpg.jpg);
+        height: 400vh;
+        background-size: cover;
+        background-position: center;
+        
+
+    }
+ul{
+    float: center;
+    list-style-type: none;
+    margin: 50px;
+    background-image: url(12.jpg);
+
+}
+ul li{
+    display: inline-block;
+
+}
